@@ -1,6 +1,8 @@
-// Gabriel Temer Nascimento
-// 11811ETE011
+//Gabriel Temer Nascimento 
 
+//11811ETE011
+
+//p3.c
 
 #include <stdio.h>
 int main()
