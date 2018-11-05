@@ -1,3 +1,9 @@
+//Gabriel Temer Nascimento 
+
+//11811ETE011
+
+//p5.c
+
 #include <stdio.h>
 typedef
 	unsigned long long int
