@@ -1,3 +1,10 @@
+//Gabriel Temer Nascimento 
+
+//11811ETE011
+
+//p4.c
+
+
 #include <stdio.h>
 int A(int m, int n)
 {
